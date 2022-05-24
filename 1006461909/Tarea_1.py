@@ -1,3 +1,4 @@
 hola= 'hola'
 mundo='mundo'
-print(f'{})
+print(hola+mundo)
+
